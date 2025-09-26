@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+clustrmaps.com	TRUE	/	FALSE	1999999999	PHPSESSID	mtjg95u6funmdcsl7apb751u16
+.www.encna.org	TRUE	/	FALSE	1999999999	__cf_bm	EFQWhJSXcvHetyzCFxcdpQcuzMqOerTIFozkBkLPpJk-1758855531-1.0.1.1-IPrtnVkg8zc4wmh32Q9Ox1MIqXyh.QDyGQb92x5SNB3ZLIMJ3931MA_cY7XhqLeBb2AcjEsObX0Pgecp1Ml0dCUuBRqASs_St32eqlxuKJg
+www.encna.org	TRUE	/	FALSE	1999999999	SameSite	None
+
